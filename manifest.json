@@ -1,0 +1,17 @@
+{
+  "name": "Director OS v1.0",
+  "short_name": "DirectorOS",
+  "description": "现场导演执行与监造系统 - Production Book & Execution Engine",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1c1c1e",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='128' fill='%23111'/><circle cx='256' cy='256' r='160' fill='none' stroke='%230a84ff' stroke-width='32'/><polygon points='210,170 350,256 210,342' fill='%230a84ff'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
